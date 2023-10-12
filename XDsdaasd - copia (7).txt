@@ -1,0 +1,11 @@
+dir
+te muestra lo que hay en la carpeta
+pwd 
+te muestra en que ruta estas
+cd nombreDeCarpeta
+te sirve para moverte entre carpetas
+cd .. 
+te devuelve una carpeta atras
+cd nombreruta 
+cd C:\Users\gera\Desktop\info2\informatorioCodigos
+te lleva directamente a esa ruta
